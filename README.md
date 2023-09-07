@@ -1,7 +1,7 @@
 # Hello World! :)
 
 -  👋 Hi, I’m @garmercy
-- 👀 I'm interested in learning coding
+- 👀 I'm learning coding
 - 🌱 I’m currently learning HTML, JavaScript and CSS
 
 
