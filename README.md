@@ -13,7 +13,6 @@ Technical skills
 - Database: SQL, NoSQL, MongoDB, Sequalize
 - Tools: Git,Slack, GitHub, Microsoft Office VS Code
 ```
-Who Am I?
 <!---
 garmercy/garmercy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
