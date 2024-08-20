@@ -8,10 +8,10 @@ skills. Experienced working with a team, with strong ability to manage stress si
 
 Technical skills
 ```
-* Front-end: HTML, CSS, JavaScript, React.js, Responsive Web Design, jQuery, Canva
-* Back-end: Node.js, Express, GraphQL, OOP, MVC, ORM, MERN
-* Database: SQL, NoSQL, MongoDB, Sequalize
-* Tools: Git,Slack, GitHub, Microsoft Office VS Code
+- Front-end: HTML, CSS, JavaScript, React.js, Responsive Web Design, jQuery, Canva
+- Back-end: Node.js, Express, GraphQL, OOP, MVC, ORM, MERN
+- Database: SQL, NoSQL, MongoDB, Sequalize
+- Tools: Git,Slack, GitHub, Microsoft Office VS Code
 ```
 Who Am I?
 <!---
